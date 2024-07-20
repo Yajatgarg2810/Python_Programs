@@ -1,1 +1,1 @@
-My joirney of Python 
+Some of my practice programs of Python.
