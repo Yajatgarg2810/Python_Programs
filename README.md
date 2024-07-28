@@ -1,1 +1,1 @@
-Some of my practice programs of Python.
+Some practice programs of Python.
